@@ -14,7 +14,7 @@
 
 ## Data
 
-Download master.csv from:
+You can either download master.csv from the link below or in the file named data:
 https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
 
 Place it in the data folder
